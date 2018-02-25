@@ -1,6 +1,6 @@
 # Image-Viewer
-Basic image viewer that lets you open and browse through images. The user has to first select a folder with images to be displayed.
-There is five different ways to scroll through the images, which is illustrated in the image below.
+Basic image viewer that lets you open and browse through images. The UI was designed using Java AWT. The user has to first select a folder with images to be displayed.
+There are five different ways to scroll through the images, which is illustrated below.
 
 To run the project, simply run Driver.java that contains the main method.
 
